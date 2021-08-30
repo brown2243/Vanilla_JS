@@ -8,6 +8,8 @@ branch-name -> ex)\_`view-weather`,`effect-aaa`, `parts-ddd`
 
 ### Components -> parts
 
+- image-slider
+
 ### Effects
 
 ### Views
